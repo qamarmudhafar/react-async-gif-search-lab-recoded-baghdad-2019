@@ -20,6 +20,7 @@ render(){
   return (
     <div>
     <gifSearch handleSubmit={this.handleSubmit}/>
-    <GifList gif={
+    <GifList gif={this.state.gif}/>
+    </div>
     )
 }
