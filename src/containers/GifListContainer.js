@@ -8,7 +8,7 @@ export default class GifListContainer extends React.component {
     gif : []
     
     handleSubmit =(type) =>{
-      fetch ""
+      fetch "https://api.giphy.com/v1/gifs/search?q=YOUR QUERY HERE&api_key=dc6zaTOxFJmzC&rating=g"
     }
   }
 }
