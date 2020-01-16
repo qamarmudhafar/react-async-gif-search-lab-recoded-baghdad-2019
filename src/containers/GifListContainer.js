@@ -7,6 +7,8 @@ export default class GifListContainer extends React.component {
   state = {
     gif : []
     
-    handleSubmit =(type) =>
+    handleSubmit =(type) =>{
+      fetch ""
+    }
   }
 }
