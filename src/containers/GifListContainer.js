@@ -17,5 +17,8 @@ export default class GifListContainer extends React.component {
 }
 
 render(){
-  return 
+  return (
+    <div>
+    
+    )
 }
