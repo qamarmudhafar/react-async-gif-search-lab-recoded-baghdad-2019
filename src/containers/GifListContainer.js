@@ -24,3 +24,5 @@ render(){
     </div>
     )
 }
+
+export default GifListContainer
